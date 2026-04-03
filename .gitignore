@@ -1,0 +1,7 @@
+mongodb/
+mongodb-win32-x86_64-windows-7.0.12/
+*.zip
+node_modules/
+target/
+.env
+.DS_Store
